@@ -1,3 +1,6 @@
-# commclassroomOP
+# My own definition of the readme file
 
-Kunal Kushwaha learing github amazing..
+Date - 01/07/2024
+Day - Monday
+
+God save me please :)
